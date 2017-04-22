@@ -1,0 +1,5 @@
+projectKey=com.smile24:FiestProject
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.smile24:FiestProject
+ceTaskId=AVuWDsd9VphtiGyQMt5O
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVuWDsd9VphtiGyQMt5O
